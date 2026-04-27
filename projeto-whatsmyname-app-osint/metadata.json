@@ -1,0 +1,5 @@
+{
+  "name": "WhatsMyName App OSINT",
+  "description": "Uma ferramenta profissional de OSINT para verificação de nomes de usuário e e-mails em múltiplas plataformas.",
+  "requestFramePermissions": []
+}
