@@ -44,7 +44,7 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **WhatsMyName** | A ferramenta profissional de OSINT para encontrar nomes de usuário, e-mails e telefones em centenas de plataformas. Rápida, precisa e feita para investigadores. | [Ver Projeto](./projeto-whatsmyname-app-osint/) |
  
 ---
  
