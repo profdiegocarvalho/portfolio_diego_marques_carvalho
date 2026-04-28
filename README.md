@@ -35,11 +35,15 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 ---
  
 ### 📂 Portfólio de Projetos
- 
-#### 🗃️ Modelagem de Banco de Dados
+<details> 
+
+ <summary>🗃️ Modelagem de Banco de Dados</summary>
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+
+</details>
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
