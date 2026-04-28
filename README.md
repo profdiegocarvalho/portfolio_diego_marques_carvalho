@@ -45,6 +45,11 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **WhatsMyName** | A ferramenta profissional de OSINT para encontrar nomes de usuário, e-mails e telefones em centenas de plataformas. Rápida, precisa e feita para investigadores. | [Ver Projeto](./projeto-whatsmyname-app-osint/) |
+
+#### 👽 Front-End
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **WhatsMyName** | A ferramenta profissional de OSINT para encontrar nomes de usuário, e-mails e telefones em centenas de plataformas. Rápida, precisa e feita para investigadores. | [Ver Projeto](./projeto-whatsmyname-app-osint/) |
  
 ---
  
