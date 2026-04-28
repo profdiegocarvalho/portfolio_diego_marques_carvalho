@@ -37,23 +37,32 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
 ### 📂 Portfólio de Projetos
 <details> 
 
- <summary>🗃️ Modelagem de Banco de Dados</summary>
+<summary>🗃️ <b>Modelagem de Banco de Dados</b></summary>
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
 
 </details>
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **WhatsMyName** | A ferramenta profissional de OSINT para encontrar nomes de usuário, e-mails e telefones em centenas de plataformas. Rápida, precisa e feita para investigadores. | [Ver Projeto](./projeto-whatsmyname-app-osint/) |
 
-#### 👽 Front-End
+<details> 
+<summary>🤖 <b>Inteligência Artificial</b></summary>
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Batalha de Modelos (XML)** | Análise comparativa de precisão e conformidade técnica entre 7 diferentes LLMs utilizando prompts estruturados. | [Ver Projeto](#) |
+| **Engenharia de Prompt** | Desenvolvimento de prompts em XML para geração de Single Page HTML/CSS com foco em diretrizes de design estritas. | [Ver Projeto](#) |
+| **Estudo de Verbosidade** | Avaliação do consumo de tokens entre modelos, identificando disparidades entre ChatGPT, Claude e DeepSeek. | [Ver Projeto](#) |
+| **DeepSeek Analysis** | Estudo de caso sobre o modelo que apresentou maior fidelidade técnica e zero erros de sintaxe no experimento. | [Ver Projeto](#) |
+
+</details>
+
+<details> 
+<summary>👽 <b>Front-End</b></summary>
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **WhatsMyName** | A ferramenta profissional de OSINT para encontrar nomes de usuário, e-mails e telefones em centenas de plataformas. Rápida, precisa e feita para investigadores. | [Ver Projeto](./projeto-whatsmyname-app-osint/) |
+</details>
  
 ---
  
